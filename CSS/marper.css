@@ -350,7 +350,7 @@
 		
 }
 
-@media only screen and (min-height: 720px) and (max-width: 1920px){
+@media only screen and (max-width: 1920px){
 	body{
 		background-color: #FFFFFF;
 		font-size: 100%;
@@ -556,10 +556,10 @@
 	}
 	.modal-custom{
 		background-color: #FFFFFF;
-		width: 80%;
+		width: 90%;
 		height: 90%;
 		display:grid;
-		grid: 25% 10% 10% 10% 25% 10% 10%/15% 85%;
+		grid: 30% 10% 10% 10% 20% 10% 10%/15% 85%;
 	}
 	.close{
 		cursor: pointer;
@@ -663,7 +663,7 @@
 	}
 	.modal-custom-2{
 		background-color: #FFFFFF;
-		width: 80%;
+		width: 90%;
 		height: 90%;
 		display:flex;
 		align-items: center;
@@ -694,6 +694,4 @@
 	}
 		
 }
- 
-
  
